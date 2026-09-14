@@ -1,0 +1,48 @@
+
+# Yummy BLT (bacon, lettace, and tomato) Sandwich
+
+## Asumptions
+- The robot will already have a knife in it's hand and 2 slices of bread on the counter.
+- 3 slices of cooked bacon and one tomato that's on a chopping board lay on the counter also.
+- The robot is 5 feet from the middle of the counter to the right where all the food is.
+- There is a knife needed to cut the food 3 feet to the left from the middle of the counter.
+- The robot will already know how to walk, grab, and the movement of cutting.
+
+## Overview
+- Bread (2 slices)
+- Bacon (3 slices)
+- 1 tomato
+- 1 lettace
+
+## Instructions
+1. The robot will take five steps forward to the middle of the counter.
+2. The robot will now take 3 steps to the left of the middle of the counter.
+3. The robot raises its left hand and grabs the knife with its left hand.
+4. The robot will walk 3 feet to the right back in the middle of the counter.
+5. The robot raises its right arm and grabs the tomato with its right hand and holds it.
+6. The robot cuts the tomato with the knife in its left hand cutting it from left to right.
+7. The robot cut 6 slices from the tomato and stops.
+8. The robot grabs a bread slice with its right hand and lays it in front of it on the counter.
+9. The robot grabs 3 tomato sliceswith its right hand.
+10. The robot puts the 3 tomato slices on the bread slice.
+11. With knife in its left hand the robot grabs all 3 slices of cooked baccon with its right hand.
+12. The robot lays the 3 slices of cooked bacon in front of it.
+13. The robot holds the bacon with it's right hand as it cuts with it's left hand.
+14. The robot cuts the cooked bacon to 20 pieces.
+15. The robot stops cutting.
+16. The robot grabs the 20 pieces of cut cooked bacon with its right hand.
+17. The robot set the 20 pieces of cut cooked bacon on the bread slice with the 3 tomato slices.
+18. The robot grabs the lettace with its right hand and puts it in font of it.
+19. The robot holds the lettace with its right hand as it cuts with its left.
+20. The robot stops cutting after cutting 2 slices of lettace.
+21. with it's right hand it grabs the 2 lettace slices.
+22. The robot puts the 2 lettace slices on the bread slice with cut up cooked bacon and tomato on it.
+23. After letting go of the lettace in its right hand the robot picks up the second bread slice with its right hand.
+24. The robot puts the bread slice on top of the other bread slice with 3 tomato slices, 20 cooked cut up bacon slices, and 2 lettace slices on its.
+25. The robot puts the knife in its left hand down.
+26. The robot made a sandwich.
+
+
+## Done when
+- The robot is done making the sandwich when of the ingrediants are cut, except for the 2 bread slices
+- The robot is done and made a sandwich after putting all 2 bread slices, 20 cooked bacon slices, 3 tomato slices, and 2 lettace slices are put on top of each other.
