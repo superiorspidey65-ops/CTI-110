@@ -28,4 +28,32 @@ circle_area = math.pi * radius ** 2
 # Display area
 print(f"The area of the circle is {circle_area:.3f}\n")
 
+# This is what I orignally had before I watched the video to check if I did it right
 
+# Import math module to use the constant, math.pi
+# import math
+
+# User given radius
+# radius = float(input("What is the radius of the circle? "))
+# print()
+
+# calculate diameter
+# diameter = 2 * radius
+
+# Display diamter
+# print("The diameter of the circle is ", diameter)
+# print()
+
+# calculate circumfrence
+#circumfrence = 2 * math.pi * radius
+
+# Display circumfrence 
+# print("The circumfrence of the circle is ", circumfrence)
+# print
+
+# The area calculation
+# circle_area = math.pi * radius ** 2
+
+# Display area
+# print("The area of the circle is ", circle_area)
+# print()
